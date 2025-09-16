@@ -40,4 +40,4 @@ This project is structured for practicing Artificial Intelligence and Machine Le
 - Keep dependencies updated
 
 ---
-Replace this README with project-specific details as you progress.
+
