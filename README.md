@@ -40,4 +40,3 @@ This project is structured for practicing Artificial Intelligence and Machine Le
 - Keep dependencies updated
 
 ---
-
